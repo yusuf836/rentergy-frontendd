@@ -1,0 +1,15 @@
+.footer {
+  background: var(--clr-white);
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+p {
+  margin: 0;
+  color: #636e72;
+}
